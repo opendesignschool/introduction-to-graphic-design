@@ -5,7 +5,7 @@ Short introductory course of graphic design basics
 
 
 # Introduction
-- What Graphic design is? 
+- What is Graphic design? 
 - Where does it come from? 
 - Difference between graphic design and art. 
 
@@ -36,13 +36,13 @@ Short introductory course of graphic design basics
 - Illustrator (vector graphics)
 - Photoshop (raster graphics)
 - In Design (desktop publishing)
-- Preparing design for print or digital use (print ready PDF, or png, jpg, svg for digital
 
 ### Workflow
 
-- Creative brief
-- Creative process (Approach and brainstorming)
 - Inspiration and self teaching
+- Creative brief 
+- Creative process (Approach and brainstorming)
+- Preparing design for print or digital use (print ready PDF, or png, jpg, svg for digital
 
 
 
