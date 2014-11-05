@@ -1,4 +1,4 @@
-Introduction-into-Graphic-Design
+Introduction into Graphic Design
 ================================
 
 Short introductory course of graphic design basics
