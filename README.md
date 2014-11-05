@@ -46,5 +46,10 @@ Short introductory course of graphic design basics
 
 
 
+#### Next stage
+- add a paragraph of description to each bullet point
+
+
+
 
 
