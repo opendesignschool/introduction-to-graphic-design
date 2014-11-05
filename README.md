@@ -11,4 +11,23 @@ Short introductory course of graphic design basics
 
 ## Structure of the course
 
-### Typography
+### Typography 
+
+- Importantce of Typography
+- Choosing the type (anatomy of letter, history and classification)
+- Treating the type (kerning, leading, trecking etc.)
+
+### Colour
+
+- Colour wheel (phisics of colour, colour wheel, primary and secondary colours)
+- Power of colour (emotional influence, cultural background)
+- Technical part (CMYK and RGB, pantone colours, hue and saturation)
+- Choosing colour (meaning, legibility, medium)
+
+### Layout
+
+
+
+
+
+### Tools
