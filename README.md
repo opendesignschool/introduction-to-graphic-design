@@ -26,8 +26,25 @@ Short introductory course of graphic design basics
 
 ### Layout
 
+- Grids
+- Hiararchy 
+- Composition
+
+### Tools 
+
+- Pen & Parer
+- Illustrator (vector graphics)
+- Photoshop (raster graphics)
+- In Design (desktop publishing)
+- Preparing design for print or digital use (print ready PDF, or png, jpg, svg for digital
+
+### Workflow
+
+- Creative brief
+- Creative process (Approach and brainstorming)
+- Inspiration and self teaching
 
 
 
 
-### Tools
+
