@@ -35,7 +35,7 @@ Short introductory course of graphic design basics
 - Pen & Parer
 - Illustrator (vector graphics)
 - Photoshop (raster graphics)
-- In Design (desktop publishing)
+- InDesign (desktop publishing)
 
 ### Workflow
 
