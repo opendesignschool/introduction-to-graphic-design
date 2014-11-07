@@ -13,7 +13,7 @@ Short introductory course of graphic design basics
 
 ### Typography 
 
-- Importantce of Typography
+- Importance of Typography
 - Choosing the type (anatomy of letter, history and classification)
 - Treating the type (kerning, leading, trecking etc.)
 
