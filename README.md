@@ -32,7 +32,7 @@ Short introductory course of graphic design basics
 
 ### Tools 
 
-- Pen & Parer
+- Pen & Paper
 - Illustrator (vector graphics)
 - Photoshop (raster graphics)
 - InDesign (desktop publishing)
