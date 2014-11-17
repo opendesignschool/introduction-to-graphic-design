@@ -20,7 +20,7 @@ There many ways to classify type, and classification can take into accout letter
 - Serif
 - Script  
 
-![alt text](https://raw.githubusercontent.com/opendesignschool/introduction-into-graphic-design/master/typography/assets/img/classification_1.svg)
+![alt text](https://github.com/opendesignschool/introduction-into-graphic-design/blob/master/typography/assets/img/classification_1.svg)
 
 
 - Treating the type (hierachy, kerning, leading, trecking etc.)
