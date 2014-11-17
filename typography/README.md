@@ -20,7 +20,7 @@ There many ways to classify type, and classification can take into accout letter
 - Serif
 - Script  
 
-![Sans Serif, Serif and Script](assets/img/classification_1.svg?raw=true "Sans Serif, Serif and Script")
+![Sans Serif, Serif and Script](https://cdn.rawgit.com/opendesignschool/introduction-into-graphic-design/master/typography/assets/img/classification_1.svg "Sans Serif, Serif and Script")
 
 
 
