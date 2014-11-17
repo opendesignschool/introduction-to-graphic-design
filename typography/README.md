@@ -20,7 +20,7 @@ There many ways to classify type, and classification can take into accout letter
 - Serif
 - Script  
 
-![alt text](/assets/img/classification_1.svg)
+![Sans Serif, Serif and Script](/assets/img/classification_1.svg)
 
 
 
