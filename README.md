@@ -14,15 +14,11 @@ Short introductory course of graphic design basics
 
 ## Modules
 
-### [Typography](typography/typography.md) 
-
-### [Colour](colour/colour.md)
-
-### [Layout](layout/layout.md)
-
-### [Tools](tools/tools.md)
-
-### [Workflow](workflow/workflow.md)
+- [Typography](typography) 
+- [Colour](colour)
+- [Layout](layout)
+- [Tools](tools)
+- [Workflow](workflow)
 
 
 
