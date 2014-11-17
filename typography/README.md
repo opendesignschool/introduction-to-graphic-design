@@ -22,8 +22,6 @@ There many ways to classify type, and classification can take into accout letter
 
 ![Sans Serif, Serif and Script](assets/img/classification_1.svg?raw=true "Sans Serif, Serif and Script")
 
-![Sans Serif, Serif and Script](http://img.shields.io/coveralls/jekyll/jekyll/master.svg "Sans Serif, Serif and Script")
-
 
 
 
