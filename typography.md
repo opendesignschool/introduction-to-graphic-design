@@ -15,8 +15,6 @@ Short introductory course of graphic design basics
 
 ### Typography 
 
-[typography](typography.md) 
-
 - *Importance of Typography.* Hard to believe, typography holds 90% of the effectiveness of a grahic design. Why? 
 1. Look and feel. Because the shape of the letters itself already communicates a message. For example, if you want to communicate a serious and conservative message you would use a serious and conservative font. If you want to communicate a friendly and fun message, you would use a friendly and fun font. 
 2. Readability. Because a verval message needs to be communicated too. The piece you are going to design has text that it's going to be read by people. Readability (the ease with which text can be read and understood) is crutial in graphic design.  
