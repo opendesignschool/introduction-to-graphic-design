@@ -1,5 +1,5 @@
-Introduction into Graphic Design
-================================
+Introduction to Graphic Design
+==============================
 
 Short introductory course of graphic design basics
 
